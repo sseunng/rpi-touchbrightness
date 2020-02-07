@@ -7,8 +7,8 @@ Adjust brightness of Raspberry Pi 7-inch touchscreen on touch and over time.
 - Adjust maximum and minimum brightness over time
 
 ## Requirements
-- [rpi-background](https://github.com/linusg/rpi-backlight)
-- Follow the installation instructions of **rpi-background**
+- [rpi-backlight](https://github.com/linusg/rpi-backlight)
+- Follow the installation instructions of **rpi-backlight**
 
 ## Installation
 ```console
